@@ -5,7 +5,7 @@
 
 <h2>HOW TO INSTALL AND RUN THE PROJECT</h2>
 <h3>Step One: Download Node and PostgresSQL</h3>  
-- click here to install <a href="https://nodejs.org/en/download">Node.js</a>
+- click here to install <a href="https://nodejs.org/en/download">Node.js</a> <br>
 - click here to install <a href="https://www.postgresql.org/download/">PostgresSQL</a>
 
 <h3>Step Two: install node dependencies</h3>
