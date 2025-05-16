@@ -3,8 +3,8 @@
 <h2>Welcome to the Restaurant API</h2>
 - This project is designed to be an example of a restaurant manager with some functionalities such as makin customers registration, adding dishes to the menu, making orders, and more.
 
-<h2>Steps to install and run the project:</h2>
-<h2>Step One: Download Node and PostgresSQL</h2>  
+<h2>HOW TO INSTALL AND RUN THE PROJECT</h2>
+<h3>Step One: Download Node and PostgresSQL</h3>  
 - click here to install <a href="https://nodejs.org/en/download">Node.js</a>
 - click here to install <a href="https://www.postgresql.org/download/">PostgresSQL</a>
 
