@@ -1,0 +1,8 @@
+{
+    "username": "postgres",
+    "password": "postgres",
+    "database": "restaurant",
+    "host": "127.0.0.1",
+    "port": "5433",
+    "dialect": "postgres"
+}
