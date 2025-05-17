@@ -1,7 +1,7 @@
 # restaurant_api
 
 <h2>Welcome to the Restaurant API</h2>
-- This project is designed to be an example of a restaurant manager with some functionalities such as makin customers registration, adding dishes to the menu, making orders, and more.
+- This project is designed to be an example of a restaurant manager with some functionalities such as making customers registration, adding dishes to the menu, making orders, and more.
 
 <h2>HOW TO INSTALL AND RUN THE PROJECT</h2>
 <h3>Step One: Download Node and PostgresSQL</h3>  
