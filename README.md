@@ -28,7 +28,7 @@ Then, go to the file <a href="https://github.com/WilenGabrielGS/restaurant_api/b
 Now that you have everything configured, run the command <i><b>node src/server.js</b></i> to start the node server, it should give you a message on console "server online".
 
 <h2>HOW TO RUN UNIT TESTS</h2>
-To run the unit tests present in <a href="https://github.com/WilenGabrielGS/restaurant_api/blob/main/tests/app.test.js">test/app.test.js</a>, make sure you have installed Jest and Supertest using the commands described above. With them installed, open the project's root folder on terminal and type the command <i>npm test</i>, it should start the tests and show the process on the screen.
+To run the unit tests present in <a href="https://github.com/WilenGabrielGS/restaurant_api/blob/main/tests/app.test.js">test/app.test.js</a>, make sure you have installed Jest and Supertest using the commands described above. With them installed, open the project's root folder on terminal and type the command <i><b>npm test</b></i>, it should start the tests and show the process on the screen.
 
 
   
