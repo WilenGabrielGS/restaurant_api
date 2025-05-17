@@ -15,7 +15,8 @@ module.exports = (sequelize, DataTypes) => {
   }
   Orders.init({
     customer_id: DataTypes.INTEGER,
-    items: DataTypes.JSONB
+    items: DataTypes.JSONB,
+    status: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'Orders',

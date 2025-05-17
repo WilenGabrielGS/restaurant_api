@@ -1,7 +1,7 @@
 const {Customer} = require("../models");
 
 class CustomerController {
-    async store(req, res){
+    async store(req, res){ //insert new customer
         const {name, email, phone} = req.body;
 
         const customerAlreadyExists = await Customer.findOne({where: {email}});
