@@ -10,7 +10,7 @@
 
 <h3>Step Two: install node dependencies</h3>
 After having the node.js installed in your machine, open the project folder on bash, cmd, powershell or other prompt you have and run the commands to install the dependencies bellow: <br>
-- <b>Express:</b> <i>npm install express</i> <br>
+- <b>Express:</b> `<i>npm install express</i>` <br>
 - <b>Sequelize:</b> <i>npm install --save sequelize</i> <br>
 - <b>Sequelize postgres library:</b> <i>npm install --save pg pg-hstore</i> <br>
 - <b>Sequelize-cli:</b> <i>npm install --save-dev sequelize-cli</i> <br>
