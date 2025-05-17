@@ -15,6 +15,7 @@ After having the node.js installed in your machine, open the project folder on b
 - Sequelize postgres library: npm install --save pg pg-hstore <br>
 - Sequelize-cli: npm install --save-dev sequelize-cli <br>
 - Jest: npm install --save-dev jest <br> 
+- Supertest: npm install --save-dev supertest<br>
 - other general libraries: npm install <br>
 
 disclaimer: if you have any issue installing some library runing "npm install", install the determinated library manually
