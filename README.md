@@ -25,7 +25,10 @@ Once you have the postgreSQL installed, you can use any database manager such as
 Then, go to the file <a href="https://github.com/WilenGabrielGS/restaurant_api/blob/main/config/config.json">config/config.json</a> and change the infos as needed for your database. With all of this setted up, open the project folder on the bash again and run "npx sequelize-cli db:migrate", this command should make the migration of all the tables to your database.
 
 <h2>Step Four: Try to run the project</h2>
-Now that you have everything configured, run the command "node src/server.js" to start the node server.
+Now that you have everything configured, run the command "node src/server.js" to start the node server, it should give you a message on console "server online".
+
+<h2>HOW TO RUN UNIT TESTS</h2>
+To run the unit tests present in <a href="https://github.com/WilenGabrielGS/restaurant_api/blob/main/tests/app.test.js">test/app.test.js</a>, make sure you have installed Jest and Supertest using the commands described above. With them installed, open the project's root folder on terminal and type the command "npm test", it should start the tests and show the process on the screen.
 
 
   
