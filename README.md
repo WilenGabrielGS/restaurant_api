@@ -21,7 +21,7 @@ After having the node.js installed in your machine, open the project folder on b
 <b>DISCLAIMER</b>: if you have any issue installing some library runing "npm install", install the determinated library manually
 
 <h3>Step three: Configure the database</h3>
-Once you have the postgreSQL installed, you can use any database manager such as PgAdmin4 and DBeaver to configure the connection. With you manager connected, you can create your own database to store the data (I created one with the name "restaurant").
+Once you have the postgreSQL installed, you can use any database manager such as PgAdmin4 and DBeaver to configure the connection. With you manager connected, you can create your own database to store the data (I created one with the name "restaurant"). <br>
 Then, go to the file <a href="https://github.com/WilenGabrielGS/restaurant_api/blob/main/config/config.json">config/config.json</a> and change the infos as needed for your database. With all of this setted up, open the project folder on the bash again and run <i><b>npx sequelize-cli db:migrate</b></i>, this command should make the migration of all the tables to your database.
 
 <h3>Step Four: Try to run the project</h3>
