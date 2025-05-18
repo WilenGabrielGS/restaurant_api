@@ -6,8 +6,8 @@ const app = require('../src/app');
 describe('Customer Routes', () => {
   it('should create a new customer', async () => {
     const response = await request(app).post('/customer').send({
-      name: "John Doe",
-      email: `john${Date.now()}@example.com`,
+      name: "Maria Joaquina",
+      email: `mariajoaquina${Date.now()}@example.com`,
       phone: "123456789"
     });
 
